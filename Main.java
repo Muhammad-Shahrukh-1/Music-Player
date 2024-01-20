@@ -5,7 +5,7 @@ import java.awt.event.*;
 import java.io.File;
 import java.util.LinkedList;
 
-public class Main1 {
+public class Main {
     private static Clip clip;
     private static LinkedList<String> playlist = new LinkedList<>();
     private static int currentIndex = 0;
